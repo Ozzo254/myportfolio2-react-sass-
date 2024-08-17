@@ -1,43 +1,55 @@
 {
-    "projects":[
+    "projects": [
         {
-            "date": "07/10/2022",
-            "title": "TECHY STAR",
-            "description": "This is the sampla description about the project details. The more the details the more the details. Thank you...",
-            "url": "https://reactone-nine.vercel.app",
-            "imgSrc": "https://cdn.pixabay.com/photo/2018/06/07/16/49/virtual-3460451_960_720.jpg"
+            "date": "07/03/2023",
+            "title": "TOMATO",
+            "description": "A website for ordering food and displaying food menus with dashboard to tract customers orders",
+            "url": "https://food-delivery-eight-theta.vercel.app/",
+            "imgSrc": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.QnFpzPxzbY8b1cLrjO5mtAHaEK%26pid%3DApi&f=1&ipt=ad2dbe157d34f7fc1c7b8fceb3942146c1d6bbc41bb851ddcfc546216d91b666&ipo=images"
         },
-
         {
-            "date": "15/10/2022",
-            "title": "XCrypto",
-            "description": "This is the sampla description about the project details. The more the details the more the details. Thank you...",
-            "url": "https://react-crypto-app-pi.vercel.app",
-            "imgSrc": "https://cdn.pixabay.com/photo/2017/12/12/12/44/bitcoin-3014614_960_720.jpg"
+            "date": "15/07/2024",
+            "title": "SPACE",
+            "description": "A social chat application frontend using REACT, MUI and Tailwind CSS with admin dashboarding.",
+            "url": "https://space-client-omega.vercel.app/",
+            "imgSrc": [
+                "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.rAlCWdbLIf0JCgbZpT2hpwHaEj%26pid%3DApi&f=1&ipt=9edbf7099070fac5b6b7862e286a1ff4be4db62ae5a630f79b044f985738868c&ipo=images",
+                "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.5zWhznQO_q8eVB5ZnMhZaQHaFP%26pid%3DApi&f=1&ipt=0f5dd74f57883f7d754795b1884cd0e36176cde61df65f65576446de092a3cae&ipo=images"
+            ]
         },
-
+        {
+            "date": "17/10/2023",
+            "title": "THE FRONT",
+            "description": "A minimaistic website for self branding and advertisements",
+            "url": "https://the-front-main.vercel.app/",
+            "imgSrc": [
+                "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.8R2Szu6wOEOXkz_RFq6KbgHaEK%26pid%3DApi&f=1&ipt=31742cc638e255ef3f13788922329d5f76895c8fb8541854d1f0ef19bfd877eb&ipo=images",
+                "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.y_SWzOVCirX0_ED5QxqptgAAAA%26pid%3DApi&f=1&ipt=e877d5f632bf8f57abf785a03ab05cfc53d8edd0de451e312750795079255498&ipo=images"
+            ]
+        },
         {
             "date": "17/10/2022",
-            "title": "REACT CART",
-            "description": "This is the sampla description about the project details. The more the details the more the details. Thank you...",
+            "title": "STREETS CRED",
+            "description": "A shopping E-Commerce website with filter and search options",
             "url": "https://react-cart-eosin.vercel.app",
-            "imgSrc": "https://cdn.pixabay.com/photo/2019/12/14/08/36/shopping-4694470_960_720.jpg"
+            "imgSrc": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.ppSYsZePUsh86hgGFtwNqAAAAA%26pid%3DApi&f=1&ipt=a6f946438762f7ec7dceb674ce23942dd3392c0a67cf59d3356808a73eb9c79e&ipo=images"
         },
-
         {
-            "date": "17/10/2022",
-            "title": "REACT CART DUP",
-            "description": "This is the sampla description about the project details. The more the details the more the details. Thank you...",
-            "url": "https://react-cart-eosin.vercel.app",
-            "imgSrc": "https://cdn.pixabay.com/photo/2019/12/14/08/36/shopping-4694470_960_720.jpg"
-        },
-
-        {
-            "date": "20/10/2022",
+            "date": "20/10/2023",
             "title": "PORTFOLIO",
-            "description": "This is the sampla description about the project details. The more the details the more the details. Thank you...",
+            "description": "First portfolio website In HTML5 and Vanilla CSS",
+            "url": "https://my-portfolio-five-pi-94.vercel.app/",
+            "imgSrc": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.ExQubzZNveMn7tWE81uLNAHaET%26pid%3DApi&f=1&ipt=8ecb799481208d93dd6d0d1c045919d1c3829771db6ee272033cf6c12d316f28&ipo=images"
+        },
+        {
+            "date": "20/07/2024",
+            "title": "REACT PORTFOLIO",
+            "description": "My portfolio website In React and SCSS displaying my work projects and progress",
             "url": "/",
-            "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/catus-4948833_960_720.jpg"
+            "imgSrc": [
+                "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.A-snA8vPZc8GlK65fi_drgHaEK%26pid%3DApi&f=1&ipt=17ab4c249b3f2856bcdbd7f6d8227a6406de004715c78db9bb01106f0e759907&ipo=images",
+                "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.z9zPn-HmnkIwvlfbSdD_lAHaDg%26pid%3DApi&f=1&ipt=427418eda3175ad7b3e5fdafc4c201823d33f378d9202155f749e10824b7f59b&ipo=images"
+            ]
         }
     ]
 }

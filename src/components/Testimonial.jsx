@@ -6,16 +6,16 @@ const Testimonial = () => {
       <h2>Testimonials</h2>
       <section>
         <TestimonialCard
-          name={"Austine"}
-          feedback={"You designs are impressive"}
+          name={"Austine The First"}
+          feedback={"You designs are impressive, keep the good work"}
+        />
+        <TestimonialCard
+          name={"Austine The Second"}
+          feedback={"It's you colors and layout for Me. Amazing!"}
         />
         <TestimonialCard
           name={"Austine"}
-          feedback={"You designs are impressive"}
-        />
-        <TestimonialCard
-          name={"Austine"}
-          feedback={"You designs are impressive"}
+          feedback={"You’re the CEO, a bit of a loner🕵️. Alienated fella💀"}
         />
       </section>
     </div>
