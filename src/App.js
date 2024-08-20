@@ -16,7 +16,7 @@ function App() {
   useEffect(() => {
     const resizeRation = () => {
       setRatio(window.innerWidth / window.innerHeight);
-      console.log(ratio);
+      // console.log(ratio);
     };
     window.addEventListener("resize", resizeRation);
 
@@ -25,7 +25,7 @@ function App() {
     };
   }, [ratio]);
 
-  return ratio < 2.323 ? (
+  return ratio > 0.15 && ratio < 2.323 ? (
     <>
       <HeaderPhone menuOpen={menuOpen} setMenuOpen={setMenuOpen} />
       <Header menuOpen={menuOpen} setMenuOpen={setMenuOpen} />
